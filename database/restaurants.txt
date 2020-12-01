@@ -1,0 +1,44 @@
+INSERT INTO public.restaurants(
+	id, restaurant_address, restaurant_cost, restaurant_name, restaurant_number, restaurant_type)
+	VALUES (1, 'zahle',10, 'massaad',08806626, 'lebanese');
+
+INSERT INTO public.restaurants(
+	id, restaurant_address, restaurant_cost, restaurant_name, restaurant_number, restaurant_type)
+	VALUES (2, 'dekwene', 15, 'malak al taouk', 1592, 'lebanese');
+
+INSERT INTO public.restaurants(
+	id, restaurant_address, restaurant_cost, restaurant_name, restaurant_number, restaurant_type)
+	VALUES (3, 'fanar', 25, 'burger king', 1525, 'american');
+
+INSERT INTO public.restaurants(
+	id, restaurant_address, restaurant_cost, restaurant_name, restaurant_number, restaurant_type)
+	VALUES (4, 'jdeideh', 25, 'mcdonalds', 1297, 'american');
+
+INSERT INTO public.restaurants(
+	id, restaurant_address, restaurant_cost, restaurant_name, restaurant_number, restaurant_type)
+	VALUES (5, 'jbeil', 40, 'divvy', 01654987, 'italian');
+
+INSERT INTO public.restaurants(
+	id, restaurant_address, restaurant_cost, restaurant_name, restaurant_number, restaurant_type)
+	VALUES (6, 'hazmieh', 40, 'chopsticks', 1922, 'chinese');
+
+INSERT INTO public.restaurants(
+	id, restaurant_address, restaurant_cost, restaurant_name, restaurant_number, restaurant_type)
+	VALUES (7, 'hazmieh', 10, 'tonino', 05432332, 'lebanese');
+
+INSERT INTO public.restaurants(
+	id, restaurant_address, restaurant_cost, restaurant_name, restaurant_number, restaurant_type)
+	VALUES (8, 'zahle', 80, 'ichiban', 01010101, 'japanese');
+
+INSERT INTO public.restaurants(
+	id, restaurant_address, restaurant_cost, restaurant_name, restaurant_number, restaurant_type)
+	VALUES (9, 'ashrafieh', 30, 'zaatar w zeit', 1111, 'lebanese');
+
+
+INSERT INTO public.restaurants(
+	id, restaurant_address, restaurant_cost, restaurant_name, restaurant_number, restaurant_type)
+	VALUES (10, 'daura', 40, 'crepaway', 1412, 'lebanese');
+
+INSERT INTO public.restaurants(
+	id, restaurant_address, restaurant_cost, restaurant_name, restaurant_number, restaurant_type)
+	VALUES (11, 'tripoli', 60, 'five guys', 9900, 'american');
