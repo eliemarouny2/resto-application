@@ -1,2 +1,2 @@
 # resto-application
-CME-Full stack java program
+Full stack java program
